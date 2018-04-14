@@ -5,6 +5,9 @@
     text-align: center;
     margin: 0 auto;
 }
+.header{
+    display: flex;
+}
 .center {
     height: 100px;
     width: auto;
